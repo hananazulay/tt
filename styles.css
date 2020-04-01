@@ -1,0 +1,44 @@
+body{
+  background-color:white;
+}
+
+
+
+
+h2{
+color: black;
+text-align: center;
+font-family: fantasy;
+}
+
+h1{
+  color:gray;
+  text-align: center;
+  font-size: 150px;
+ font-family: fantasy;
+
+}
+
+.font{
+font-family: fantasy;
+
+}
+.font2{
+font-size: 70px;
+font-family: fantasy;
+}
+.click{
+  font-size: 40px;
+  font-family: fantasy;
+}
+.navi{
+  font-size: 10px;
+  font-family: fantasy;
+
+}
+.center{
+
+}
+a{
+  color:hotpink;
+}
